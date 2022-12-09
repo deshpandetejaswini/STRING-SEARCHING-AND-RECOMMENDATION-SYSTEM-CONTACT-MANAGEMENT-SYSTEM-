@@ -18,4 +18,5 @@ Tech Stack-C++,TRIE Data Structure used to search in least complexity of time an
 
 
 ## **SEARCHING CONTACT**
-![image](https://user-images.githubusercontent.com/102857029/206617582-419a5218-5e99-4550-9be7-6b14fb2c830c.png)
+![image](https://user-images.githubusercontent.com/102857029/206617859-85aef3de-3e74-4040-a3e1-b25fea35fe98.png)
+
